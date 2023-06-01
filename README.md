@@ -3,7 +3,7 @@
 | S. No. | Task | GitHub Code Link | Hosted Link |
 | :-: | :-: | :-: | :-: |
 | 1 | Task 1 | [View](https://github.com/aryanv8/TasksJS/blob/main/task1.html) | [View](https://aryanv8.github.io/TasksJS/task1.html) |
-| 2 | Task 2 | [View](https://github.com/aryanv8/TasksJS/blob/main/task2/) | [View](https://aryanv8.github.io/TasksJS/task2.html) |
+| 2 | Task 2 | [View](https://github.com/aryanv8/TasksJS/blob/main/task2/) | [View](https://aryanv8.github.io/TasksJS/task2) |
 | 3 | Task 3 | [View](https://github.com/aryanv8/TasksJS/blob/main/task3.html) | [View](https://aryanv8.github.io/TasksJS/task3.html) |
 | 4 | Task 4 | [View](https://github.com/aryanv8/TasksJS/blob/main/task4.html) | [View](https://aryanv8.github.io/TasksJS/task4.html) |
 | 5 | Task 5 | [View](https://github.com/aryanv8/TasksJS/blob/main/task5.html) | [View](https://aryanv8.github.io/TasksJS/task5.html) |
